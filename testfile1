@@ -1,4 +1,5 @@
 adding a line to ammend a commit
 this is added in master branch
 this is modified in feature branch
-this is modified to test stashing
+adding line to test stashing
+hopefully this will not be overwritten during merging
