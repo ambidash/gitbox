@@ -3,3 +3,4 @@ this is added in master branch
 this is modified in feature branch
 adding line to test stashing
 hopefully this will not be overwritten during merging
+this is modified in master to test rebase
